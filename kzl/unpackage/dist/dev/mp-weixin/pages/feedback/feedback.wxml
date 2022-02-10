@@ -1,0 +1,1 @@
+<view class="feedback"><textarea class="feedback_val" placeholder="亲，您遇到什么系统问题啦，或有什么功能建议吗？欢迎您提 供给我们，谢谢！"></textarea><view class="send">发送</view></view>

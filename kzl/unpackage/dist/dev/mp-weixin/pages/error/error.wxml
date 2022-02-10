@@ -1,0 +1,1 @@
+<view><view class="error"><view class="err_msg">您的网络出现了问题</view><view class="bgyuan"></view><view class="content_img"><image src="../../static/error404.png"></image></view></view><view class="flush">刷新</view></view>

@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "u-swipe-action": "/uview-ui/components/u-swipe-action/u-swipe-action"
+  }
+}

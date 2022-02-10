@@ -1,0 +1,1 @@
+<view class="warp"><text class="msg">共0条，最多为你保存30条</text><view class="kong"><view class="massage">您还没有浏览记录</view><view class="msg_img"><image src="../../static/null.png"></image></view><view class="gotoindex">去首页逛一逛</view></view></view>

@@ -1,0 +1,1 @@
+<view class="phone_login"><view class="mobile"><text>+86</text><input type="text" placeholder="输入手机号"/></view><view class="captcha"><input type="text" placeholder="输入验证码"/><text>发送验证码</text></view><view class="login_btn" hover-class="login_hover">登录</view><view class="bottom_msg">未注册手机验证后完成注册</view></view>

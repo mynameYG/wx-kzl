@@ -1,0 +1,62 @@
+{
+  "pages": [
+    "pages/zhanlan/zhanlan",
+    "pages/cart/cart",
+    "pages/index/index",
+    "pages/login/login",
+    "pages/content/content",
+    "pages/login/loging",
+    "pages/my/my",
+    "pages/personal/personal",
+    "pages/search/search",
+    "pages/hot/hot",
+    "pages/about/about",
+    "pages/footprint/footprint",
+    "pages/like/like",
+    "pages/username/username",
+    "pages/feedback/feedback",
+    "pages/phonelogin/phonelogin",
+    "pages/collect/collect",
+    "pages/screen/screen",
+    "pages/null/null",
+    "pages/error/error",
+    "pages/demo/demo",
+    "uview-ui/components/u-avatar-cropper/u-avatar-cropper",
+    "pages/login/register"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#A9A67F",
+    "backgroundColor": "#A9A67F"
+  },
+  "tabBar": {
+    "color": "#ccc",
+    "selectedColor": "#b50e03",
+    "borderStyle": "black",
+    "backgroundColor": "#B9B490",
+    "list": [
+      {
+        "text": "首页",
+        "pagePath": "pages/index/index",
+        "iconPath": "static/icon/home.png",
+        "selectedIconPath": "static/icon/home-active.png"
+      },
+      {
+        "text": "热门",
+        "pagePath": "pages/hot/hot",
+        "iconPath": "static/icon/news.png",
+        "selectedIconPath": "static/icon/news-active.png"
+      },
+      {
+        "text": "我的",
+        "pagePath": "pages/my/my",
+        "iconPath": "static/icon/member.png",
+        "selectedIconPath": "static/icon/member-active.png"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap59.json"
+}

@@ -1,0 +1,1 @@
+<view><input type="text" data-event-opts="{{[['input',[['__set_model',['','phone','$event',[]]]]]]}}" value="{{phone}}" bindinput="__e"/><button data-event-opts="{{[['tap',[['getcode',['$event']]]]]}}" bindtap="__e">验证码</button></view>
